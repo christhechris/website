@@ -8,3 +8,18 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
+[[redirects]]
+  from = "https://www.chrisbetters.com/*"
+  to = "https://www.muchbetters.com/:splat"
+  status = 301
+
+[[redirects]]
+  from = "https://chrisbetters.com/*"
+  to = "https://www.muchbetters.com/:splat"
+  status = 301
+
+[[redirects]]
+  from = "https://muchbetters.netlify.com/*"
+  to = "https://www.muchbetters.com/:splat"
+  status = 301
