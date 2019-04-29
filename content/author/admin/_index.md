@@ -23,9 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Stuff0",
+  "Stuff1",
+  "Stuff2"
 ]
 
 # Organizational groups that you belong to (for People widget)
